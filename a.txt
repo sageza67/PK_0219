@@ -1,2 +1,4 @@
 Szia! Változtatok. Ezt most megváltoztatom hogy pullozni kelljen
 Ismét változtatok, hogy pusholjunk
+
+ezt válztoztattam
